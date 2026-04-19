@@ -1,10 +1,10 @@
-# legion-sandbox
+# legion-sandbox (bananas)
 
 A throwaway sandbox for testing holyclaude-cloud.
 
 ## Purpose
 
-Scratch space.
+Banana-flavored scratch space for testing banana-related ideas and workflows.
 
 ## Notes
 
