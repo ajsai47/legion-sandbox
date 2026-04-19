@@ -1,10 +1,10 @@
-# legion-sandbox (apples)
+# legion-sandbox (apples & bananas)
 
 A throwaway sandbox for testing holyclaude-cloud.
 
 ## Purpose
 
-Apple-flavored scratch space for exploring apple varieties, recipes, and orchard management experiments.
+Apple-flavored and banana-flavored scratch space for exploring apple varieties, recipes, orchard management experiments, and banana-related ideas and workflows.
 
 ## Notes
 
