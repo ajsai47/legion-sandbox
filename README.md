@@ -1,2 +1,11 @@
 # legion-sandbox
-Throwaway sandbox for testing holyclaude-cloud legion dispatch.
+
+A throwaway sandbox for testing holyclaude-cloud.
+
+## Purpose
+
+Scratch space.
+
+## Notes
+
+Nothing here is permanent.
